@@ -1,2 +1,2 @@
 # Financial-Integration-Platform
-총 기능 리팩토링
+KB 재테크 통합 플랫폼
